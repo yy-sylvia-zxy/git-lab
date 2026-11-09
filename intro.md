@@ -1,1 +1,1 @@
-Git 是一门版本控制工具。
+Git 是 Linus Torvalds 创造的神器。
